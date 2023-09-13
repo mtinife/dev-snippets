@@ -10,3 +10,8 @@
 
  - [Markdown](https://www.markdownguide.org/cheat-sheet/)
  - []
+
+### Design
+
+Typography
+ - [Google Fonts](https://fonts.google.com/)
