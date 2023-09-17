@@ -19,3 +19,8 @@ Typography
 
  - [Google Fonts](https://fonts.google.com/)
  - [Fluid Typography](https://modern-fluid-typography.vercel.app/)
+ - []
+
+Icons
+
+ - [REmixicon](https://remixicon.com/)
